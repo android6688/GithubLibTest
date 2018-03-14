@@ -1,0 +1,8 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+          package="com.hjw.githublibrary">
+
+    <application>
+        <activity android:name=".AActivity">
+        </activity>
+    </application>
+</manifest>
